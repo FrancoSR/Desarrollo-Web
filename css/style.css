@@ -1,6 +1,10 @@
+header{
+	background: green;
+	width: 100%;
+}
 h1{
-	text-align: center;
 	color: blue;
+	text-align: center;
 }
 
 a{
@@ -10,4 +14,9 @@ a{
 
 nav{
 	text-align: center;
+}
+
+section{
+	background: green;
+	border-radius: 10px;
 }
