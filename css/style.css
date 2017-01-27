@@ -1,22 +1,32 @@
 header{
-	background: green;
 	width: 100%;
 }
 h1{
 	color: blue;
 	text-align: center;
 }
-
 a{
 	color: black;
 	text-decoration:  none;
 }
-
 nav{
 	text-align: center;
 }
 
+div{
+	display: inline-block;
+	align-self: center;
+	margin-left: auto;
+	margin-right: auto;
+}
 section{
-	background: green;
+	vertical-align: middle;	
 	border-radius: 10px;
+}
+iframe{
+	margin-left: 500px;
+}
+address{
+	vertical-align: middle;
+	text-align: center;
 }
